@@ -1,0 +1,10 @@
+.App {
+  max-width: 70rem;
+  margin: 10rem auto;
+}
+
+.character {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
